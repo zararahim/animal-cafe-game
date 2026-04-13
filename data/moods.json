@@ -1,0 +1,5 @@
+{
+    "happy": { "time_bonus": 10, "score_multiplier": 1.2 },
+    "neutral": { "time_bonus": 0, "score_multiplier": 1.0 },
+    "impatient": { "time_bonus": -5, "score_multiplier": 1.5 }
+  }
