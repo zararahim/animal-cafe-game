@@ -1,7 +1,0 @@
-{
-    "customers": [
-      { "name": "Bunny", "favorite_food": "cupcake" },
-      { "name": "Cat", "favorite_food": "cookie" },
-      { "name": "Bear", "favorite_food": "cake" }
-    ]
-  }
