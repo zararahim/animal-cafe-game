@@ -1,0 +1,34 @@
+{
+  "Cupcake": {
+    "ingredients": ["flour", "sugar", "butter", "egg"],
+    "description": "A sweet little cupcake with frosting"
+  },
+  "Fish Cake": {
+    "ingredients": ["flour", "egg", "milk", "fish"],
+    "description": "A whimsical fish-shaped cake for curious cats"
+  },
+  "Carrot Muffin": {
+    "ingredients": ["flour", "egg", "milk", "carrot"],
+    "description": "A cozy carrot muffin that bunnies love"
+  },
+  "Berry Tart": {
+    "ingredients": ["flour", "butter", "berries", "sugar"],
+    "description": "A sharp little tart for fast foxes"
+  },
+  "Berry Bread": {
+    "ingredients": ["flour", "milk", "berries", "sugar"],
+    "description": "A soft berry bread loaf made for patient sloths"
+  },
+  "Pancake": {
+    "ingredients": ["flour", "egg", "milk", "sugar"],
+    "description": "Fluffy pancakes stacked high"
+  },
+  "Latte": {
+    "ingredients": ["espresso shot", "steamed milk"],
+    "description": "A smooth latte with espresso and steamed milk"
+  },
+  "Coffee": {
+    "ingredients": ["espresso shot", "steamed milk"],
+    "description": "A creamy coffee made with espresso and steamed milk"
+  }
+}

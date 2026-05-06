@@ -1,0 +1,59 @@
+{
+  "cat": {
+    "favorite_items": ["Fish Cake", "Latte"],
+    "disliked_items": ["Pancake"],
+    "personality": "refined and picky",
+    "preferred_mood": "impatient",
+    "patience_multiplier": 0.82,
+    "mood_weights": {
+      "happy": 1,
+      "normal": 3,
+      "impatient": 6
+    }
+  },
+  "otter": {
+    "favorite_items": ["Coffee", "Cupcake"],
+    "disliked_items": [],
+    "personality": "playful and curious",
+    "preferred_mood": "happy",
+    "patience_multiplier": 1.0,
+    "mood_weights": {
+      "happy": 6,
+      "normal": 3,
+      "impatient": 1
+    },
+    "favorite_bias": 0.88,
+    "sweet_order_bias": 0.45
+  },
+  "bunny": {
+    "favorite_items": ["Carrot Muffin", "Pancake"],
+    "disliked_items": ["Coffee"],
+    "personality": "gentle and sweet",
+    "preferred_mood": "normal",
+    "patience_multiplier": 1.1
+  },
+  "fox": {
+    "favorite_items": ["Berry Tart", "Coffee"],
+    "disliked_items": [],
+    "personality": "clever and quick to judge",
+    "preferred_mood": "impatient",
+    "patience_multiplier": 0.62,
+    "mood_weights": {
+      "happy": 1,
+      "normal": 2,
+      "impatient": 7
+    }
+  },
+  "sloth": {
+    "favorite_items": ["Berry Bread", "Cupcake"],
+    "disliked_items": [],
+    "personality": "chill and unbothered",
+    "preferred_mood": "happy",
+    "patience_multiplier": 2.0,
+    "mood_weights": {
+      "happy": 7,
+      "normal": 3,
+      "impatient": 0
+    }
+  }
+}
