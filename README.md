@@ -9,15 +9,16 @@ Sana Al Hamimidi & Zara Rahim
 pip install -r requirements.txt
 
 # 2. Run the game
-python main.py
+python3 main.py
 ```
 
 ## How to Play
 1. Animal customers enter the cafe and display their orders in speech bubbles
 2. Each customer has a **mood** (😊 Happy / 😐 Normal / 😤 Impatient) that affects their patience timer
 3. Click ingredients from the tray at the bottom to assemble the order
-4. Press **Serve!** to submit — faster and more accurate = more points!
-5. Serve as many customers as you can before the 2-minute timer runs out
+4. Use drink station controls for coffee orders (**C = espresso shot**, **M = steamed milk**)
+5. Press **Serve!** to submit — the game serves the **best-matching customer** (not only left-to-right)
+6. Earn as many points as you can before the **3-minute timer** runs out (or press **End Game** early)
 
 ## Scoring
 | Result  | Points         |
@@ -26,6 +27,10 @@ python main.py
 | Close   | 60             |
 | Wrong   | -20            |
 | Customer leaves | -20   |
+
+## Drink Notes
+- **Latte** = espresso shot + steamed milk
+- **Coffee** = espresso shot + steamed milk
 
 ## Project Structure
 ```
